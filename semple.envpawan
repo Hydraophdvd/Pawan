@@ -1,11 +1,14 @@
 
 #-------- Required Variables --------#
 
-API_ID=
-API_HASH=
-OWNER_ID=
+API_ID=24412726
+
+API_HASH=7ff6d88deb4f59b5783b87378d0cd3a3
+
+OWNER_ID=5612568469
 SUDO_USERS=
-CLIENT=
+CLIENT=7ff6d88deb4f59b5783b87378d0cd3a3
+
 
 #-------- All CLIENTs --------#
 
